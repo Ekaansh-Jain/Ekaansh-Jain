@@ -51,10 +51,10 @@ ekaansh = {
 | Project | What it does | Tech |
 |---|---|---|
 | [**grant_evaluator_final**](https://github.com/Ekaansh-Jain/grant_evaluator_final) | Automated grant review — 85% reduction in manual time, multi-agent pipeline | Python, LangChain, FastAPI |
-| [**travel_agent_ai**](https://github.com/Ekaansh-Jain/travel_agent_ai) | AI travel planning agent with smart recommendations | TypeScript |
-| [**garbage-classifier**](https://github.com/Ekaansh-Jain/garbage-classifier) | Computer vision waste classification system | TypeScript |
+| [**travel_agent_ai**](https://github.com/Ekaansh-Jain/travel_agent_ai) | AI travel planning agent with smart recommendations | Python, LangGraph, FastAPI, TypeScript |
+| [**garbage-classifier**](https://github.com/Ekaansh-Jain/garbage-classifier) | Computer vision waste classification system | Tensorflow, ImageNET |
 | [**ecommerce-chatbot**](https://github.com/Ekaansh-Jain/ecommerce-chatbot) | 98.67% accuracy intent classifier — fine-tuned BERT on CLINC150 | Python, TensorFlow |
-| [**ai-finance**](https://github.com/Ekaansh-Jain/ai-finance) | AI-powered financial assistant | Python |
+| [**ai-finance**](https://github.com/Ekaansh-Jain/ai-finance) | AI-powered financial assistant | Python, Langchain, React |
 
 ---
 
